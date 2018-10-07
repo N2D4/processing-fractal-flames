@@ -1,2 +1,25 @@
 # processing-fractal-flames
 Processing implementation of the Fractal Flames algorithm. This was a side project I made on a weekend in 2015 and is only on GitHub for reference purposes. The code style no longer represents my code style. All pull requests are rejected. If you're searching for (much better) implementations of fractal flames, take a look at [Electric Sheep](https://electricsheep.org) or read the [original paper](http://flam3.com/flame.pdf).
+
+## Gallery
+![01.png](gallery/01.png)
+![02.png](gallery/02.png)
+![03.png](gallery/03.png)
+![04.png](gallery/04.png)
+![05.png](gallery/05.png)
+![06.png](gallery/06.png)
+![07.png](gallery/07.png)
+![08.png](gallery/08.png)
+![09.png](gallery/09.png)
+![10.png](gallery/10.png)
+![11.png](gallery/11.png)
+![12.png](gallery/12.png)
+![13.png](gallery/13.png)
+![14.png](gallery/14.png)
+![15.png](gallery/15.png)
+![16.png](gallery/16.png)
+![17.png](gallery/17.png)
+![18.png](gallery/18.png)
+![19.png](gallery/19.png)
+![20.png](gallery/20.png)
+![21.png](gallery/21.png)
